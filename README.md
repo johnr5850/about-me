@@ -9,8 +9,7 @@ HSTAT
   * play videogames
   * play basketball
   * hang out with friends
-  * listen to music
-  ---
+  * listen to music  
 ##My schedule for periods 1-8 are:
 1. Software Engineering
 2. Spanish
